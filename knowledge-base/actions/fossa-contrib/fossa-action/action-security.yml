@@ -1,7 +1,7 @@
 name: Fossa Action
 github-token:
   action-input:
-    input: token
+    input: github-token
     is-default: true
   permissions:
     contents: read
